@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Java cup -->
+  <path d="M160 300h160c0 60-40 100-80 100s-80-40-80-100z" fill="#5382A1"/>
+  <path d="M320 300h30c20 0 30 20 20 40-10 20-30 20-50 20" fill="none" stroke="#5382A1" stroke-width="12"/>
+
+  <!-- Steam lines -->
+  <path d="M240 180c-20 20 20 40 0 60" fill="none" stroke="#E76F00" stroke-width="10"/>
+  <path d="M280 160c-20 20 20 40 0 60" fill="none" stroke="#E76F00" stroke-width="10"/>
+  <path d="M260 130c-20 20 20 40 0 60" fill="none" stroke="#E76F00" stroke-width="10"/>
+
+  <!-- Java text -->
+  <text
+    x="190"
+    y="460"
+    font-size="72"
+    font-family="Arial, Helvetica, sans-serif"
+    fill="#5382A1"
+    font-weight="700"
+  >
+    Java
+  </text>
+</svg>

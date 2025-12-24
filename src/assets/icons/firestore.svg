@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Flame -->
+  <path d="M128 392L256 64l128 328-128 56z" fill="#FFA000"/>
+  <path d="M256 64l-40 120 40 208 40-208z" fill="#FFCA28"/>
+  
+  <!-- Firestore text -->
+  <text
+    x="90"
+    y="460"
+    font-size="64"
+    font-family="Arial, Helvetica, sans-serif"
+    fill="#F57C00"
+    font-weight="600"
+  >
+    Firestore
+  </text>
+</svg>

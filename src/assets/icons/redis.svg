@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Redis stacked layers -->
+  <polygon points="256,60 420,140 256,220 92,140" fill="#DC382D"/>
+  <polygon points="256,150 420,230 256,310 92,230" fill="#C6302B"/>
+  <polygon points="256,240 420,320 256,400 92,320" fill="#A41E1A"/>
+
+  <!-- Redis text -->
+  <text
+    x="150"
+    y="470"
+    font-size="72"
+    font-family="Arial, Helvetica, sans-serif"
+    fill="#DC382D"
+    font-weight="700"
+  >
+    Redis
+  </text>
+</svg>
